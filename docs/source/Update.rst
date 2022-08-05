@@ -13,4 +13,4 @@ Pacman can update all packages on the system with just one command. This could t
 .. code-block::
 pacman -Syu
 
-more information on .. Pacman:: 
+more information on :doc: `Pacman` 
