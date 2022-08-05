@@ -2,9 +2,10 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
+project = 'FreedomOS'
+copyright = '2022, Graziella, FreedomOS'
 author = 'Graziella'
+author = 'FreedomOS'
 
 release = '0.1'
 version = '0.1.0'
