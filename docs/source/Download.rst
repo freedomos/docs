@@ -12,3 +12,7 @@ Freedom OS XFCE: Coming Soon
 Freedom OS OpenBox: Coming Soon
 
 Freedom OS xmonad: Coming Soon
+
+Next Step
+----------
+:doc:`Usb`
