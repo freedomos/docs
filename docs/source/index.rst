@@ -1,4 +1,4 @@
-Welcome to FreedonOS documentation!
+Welcome to FreedomOS documentation!
 ===================================
 
 Here you will find everything from installing FreedomOS, using our package manager and updating the system 
