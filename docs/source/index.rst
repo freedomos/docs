@@ -8,8 +8,13 @@ Here you will find everything from installing FreedomOS, using our package manag
 
    This project is under active development.
 
-Contents
---------
+Downloading Freedom OS
+======================
+
+
+
+
+
 
 :doc:`Install`
 
