@@ -10,7 +10,7 @@ Here you will find everything from installing FreedomOS, using our package manag
 
 Downloading Freedom OS
 ======================
-
+:doc:`Download`
 
 
 
