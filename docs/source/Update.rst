@@ -9,4 +9,4 @@ Step 2:
 ------
 
 to update just the reposetorys type 
-:code
+.. code-block .
