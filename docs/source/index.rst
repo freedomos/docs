@@ -8,9 +8,13 @@ Here you will find everything from installing FreedomOS, using our package manag
 
    This project is under active development.
 
-Downloading Freedom OS
-======================
-:doc:`Download`
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Downloading Freedom OS
+      
+      Download
 
 
 
