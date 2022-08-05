@@ -18,9 +18,16 @@ Here you will find everything from installing FreedomOS, using our package manag
    Usb
 
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Installing Freedom OS   
+
+   Install
 
 
 
-:doc:`Install`
+.. toctree::
+   :maxdepth: 1
+   :caption: Using Pacman   
 
-:doc:`Update`
+   Update
