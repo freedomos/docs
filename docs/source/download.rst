@@ -1,2 +1,2 @@
-Downloading Freedom OS
+How to download
 ======================
