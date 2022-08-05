@@ -12,5 +12,4 @@ Contents
 --------
 
 :doc:`Install`
-
 :doc:`Update`
