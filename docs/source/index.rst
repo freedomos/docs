@@ -15,6 +15,7 @@ Here you will find everything from installing FreedomOS, using our package manag
    :caption: Downloading Freedom OS   
    
    Download
+   Usb
 
 
 
