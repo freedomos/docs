@@ -11,5 +11,4 @@ Here you will find everything from installing FreedomOS, using our package manag
 Contents
 --------
 
-.. toctree::
 :doc:`Install`
