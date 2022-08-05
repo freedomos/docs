@@ -1,4 +1,4 @@
-FreedomOS Install Guide
+Install Guide
 ========================
 
 INSTALLATION GUIDE
