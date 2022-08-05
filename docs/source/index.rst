@@ -11,4 +11,5 @@ Here you will find everything from installing FreedomOS, using our package manag
 Contents
 --------
 
-:doc:`Install`
+:doc:`Install FreedomOS`
+:doc:`Update your system`
