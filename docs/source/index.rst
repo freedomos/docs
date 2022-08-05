@@ -14,7 +14,7 @@ Here you will find everything from installing FreedomOS, using our package manag
    :maxdepth: 1
    :caption: Downloading Freedom OS
       
-      Download
+   Download
 
 
 
