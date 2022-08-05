@@ -6,7 +6,7 @@ Here you will find everything from installing FreedomOS, using our package manag
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
-.. note::
+.. code::
 
    This project is under active development.
 
