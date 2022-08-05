@@ -13,6 +13,6 @@ Pacman can update all packages on the system with just one command. This could t
 The following command synchronizes the repository databases and updates the system's packages, excluding "local" packages that are not in the configured repositories:
 
 .. code-block:: console
- $ pacman -Syu
+$ pacman -Syu
 
 more information on :doc:`Pacman` 
