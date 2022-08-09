@@ -28,6 +28,13 @@ Once you are in the live session you will see the :guilabel:`FreedomOS Welcome` 
 .. hint::
     Click on the option :guilabel:`Check for updates` this will ensure the installer and any dependencys are up to date.
 
+.. warning::
+    You may not have this option if you are using an older build of the ISO. To update the system you will need to open a
+    :gullabel:`Terminal` (You can do this by clicking start and typing :gullabel:`Konsole`) and typing the comand below.
+
+.. code-block:: console
+    pacman -Syyu
+
 .. figure:: images/install/checkforupdates.png
     :width: 884px
     :align: center
@@ -40,3 +47,7 @@ Step 3 - Installing
 Click on :guilabel:`Install FreedomOS`.
 
 This will launch the Calamares installer.
+
+.. figure:: images/install/checkforupdates.png
+    :width: 884px
+    :align: center
