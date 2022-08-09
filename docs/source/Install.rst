@@ -34,11 +34,12 @@ Once you are in the live session you will see the :guilabel:`FreedomOS Welcome` 
 
 .. code-block:: console
 
-    pacman -Syyu
+    sudo pacman -Syyu
 
 .. figure:: images/install/checkforupdates.png
     :width: 884px
     :align: center
+
 
 Step 3 - Installing
 -------------------
@@ -46,6 +47,107 @@ Step 3 - Installing
 Click on :guilabel:`Install FreedomOS`.
 This will launch the Calamares installer.
 
+
+3.1
+---
 .. figure:: images/install/step3.1.png
     :width: 884px
     :align: center
+
+Choose your :guilabel:`language` by pressing the dropdown menu and press :guilabel:`Next`.
+
+3.2
+---
+.. figure:: images/install/step3.2.png
+    :width: 884px
+    :align: center
+
+Select your :guilabel:`Region` and :guilabel:`Timezone` using the dropdown menu and press :guilabel:`Next`.
+
+3.3
+---
+.. figure:: images/install/step3.3.png
+    :width: 884px
+    :align: center
+
+Select your :guilabel:`Keyboard Layout` and press :guilabel:`Next`.
+
+.. note::
+    This will normally be done for you when you set your :guilabel:`Region`.
+
+3.4
+---
+.. figure:: images/install/step3.4.png
+    :width: 884px
+    :align: center
+
+Select the :guilabel:`Drive` you want FreedomOS installing on using the dropdown menu.
+If your drive has nothing on it then select :guilabel:`Erase`.
+
+.. note::
+    If the :guilabel:`Drive` contains another operating system then you will also have the option to install :guilabel:`Along side` (Duel Booting)
+
+.. warning::
+    This process will :guilabel:`Format` the drive!!
+Then press :guilabel:`Next`
+
+3.5
+---
+.. figure:: images/install/step3.5.png
+    :width: 884px
+    :align: center
+
+Fill in the :guilabel:`Boxes` to setup your :guilabel:`Account`
+
+.. note::
+    If you want :guilabel:`Auto Login` then check the :guilabel:`Log in automatically`box.
+
+Then press :guilabel:`Next`
+
+3.6
+---
+.. figure:: images/install/step3.6.png
+    :width: 884px
+    :align: center
+
+Here you can check options and make sure your happy with them. Once you are press :guilabel:`Install`
+
+3.7
+---
+.. figure:: images/install/step3.7.png
+    :width: 884px
+    :align: center
+
+The install process has started. This may take between 5-15 minutes depending on your computer hardware.
+Go and grab yourself a cup of tea and a sandwitch.
+
+
+3.8
+---
+.. figure:: images/install/step3.8.png
+    :width: 884px
+    :align: center
+
+Install compleate, if you are finished with the :guilabel:`Live session` then click the :guilabel:`Restart now` checkbox and press :guilabel:`Done`
+
+Step 4 - Booting into your new OS
+---------------------------------
+
+Once your computer has :guilabel:`Restarted` remove your :guilabel:`USB drive`.
+This will allow the system to boot up normally.
+
+.. note::
+    Your login credentials are the same ones you created during the install.
+
+
+
+
+
+
+
+
+
+
+
+
+
