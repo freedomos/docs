@@ -1,4 +1,4 @@
-Install Guide
+Basic Install Guide
 ========================
 
 Installing FreedomOS
