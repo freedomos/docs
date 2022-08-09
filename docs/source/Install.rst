@@ -4,8 +4,8 @@ Basic Install Guide
 Installing FreedomOS
 --------------------
 
-Step 1
-------
+Step 1 - Booting
+----------------
 
 Now you have created your Bootble USB, you will need to :guilabel:`Restart` and enter your boot menu.
 
@@ -20,8 +20,8 @@ Press :guilabel:`Enter` to select the first menu item. You will now boot into th
 .. note::
     Any changes you make in the live session won't be saved!!
 
-Step 2
-------
+Step 2 - Updating
+-----------------
 
 Once you are in the live session you will see the :guilabel:`FreedomOS Welcome` (see image below).
 
@@ -32,3 +32,11 @@ Once you are in the live session you will see the :guilabel:`FreedomOS Welcome` 
     :width: 884px
     :align: center
 
+Step 3 - Installing
+-------------------
+
+<b>Step 3.1</b>
+
+Click on :guilabel:`Install FreedomOS`.
+
+This will launch the Calamares installer.
