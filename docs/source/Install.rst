@@ -42,10 +42,7 @@ Once you are in the live session you will see the :guilabel:`FreedomOS Welcome` 
 Step 3 - Installing
 -------------------
 
-<b>Step 3.1</b>
-
 Click on :guilabel:`Install FreedomOS`.
-
 This will launch the Calamares installer.
 
 .. figure:: images/install/checkforupdates.png
