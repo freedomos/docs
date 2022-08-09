@@ -4,6 +4,9 @@ Install Guide
 Installing FreedomOS
 --------------------
 
+Step 1
+------
+
 Now you have created your Bootble USB, you will need to :guilabel:`Restart` and enter your boot menu.
 
 .. hint::
